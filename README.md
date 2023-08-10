@@ -13,5 +13,4 @@ This tool is created by wasif mubeen Qureshi 🙂
 #cd Wasif-Mubeen-Qureshi
 #python wasif-wall.py
 
-USER NAME. W4SIF
-PASWORD. B0X3R
+
